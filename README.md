@@ -9,7 +9,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges)
 
 <h2>
 
-[🚀Live Site](https://ip-address-tracker-codepapa360.netlify.app/)
+[🚀Live Site](https://ip-address-tracker-alamin.app/)
 ||
 [💡Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-ip-address-tracker-M7UO70Sb4n)
 
@@ -32,9 +32,9 @@ Welcome to the IP Address Tracker! This web application, updated with TypeScript
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://ip-address-tracker-codepapa360.netlify.app/">
+<a align="center" href="https://ip-address-tracker-alamin.app/">
 
-![Screenshot](./screenshots/ip-address-tracker-preview-codepapa360.png)
+![Screenshot](./screenshots/ip-address-tracker-preview-CodeWithAlamin.png)
 
 </a>
 
@@ -68,7 +68,7 @@ I also focused on improving code organization by separating functions and functi
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/IP-Address-Tracker.git
+git clone https://github.com/CodeWithAlamin/IP-Address-Tracker.git
 ```
 
 - Install dependencies:
@@ -93,10 +93,10 @@ npm start
 
 **👤 Alamin**
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
@@ -106,4 +106,4 @@ This project, updated with TypeScript from version 1.0.1, was inspired by the "I
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/CodePapa360/IP-Address-Tracker/blob/main/LICENSE.md) License - see the LICENSE file for details.
+This project is licensed under the [MIT](https://github.com/CodeWithAlamin/IP-Address-Tracker/blob/main/LICENSE.md) License - see the LICENSE file for details.
